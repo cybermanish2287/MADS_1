@@ -9,3 +9,6 @@ SQL2:
 
 https://pysql.tecladocode.com/section02/
 
+Course - 511:
+Wes McKinney - Python for Data Analysis. Data Wrangling with Pandas, NumPy, and IPython-O’Reilly (2017)
+
