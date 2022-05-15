@@ -19,5 +19,7 @@ Wes McKinney - Python for Data Analysis. Data Wrangling with Pandas, NumPy, and 
 Course 511:
 
 Using Python to Access Web Data
+
 Using Databases with Python
+
 Capstone: Retrieving, Processing, and Visualizing Data with Python
