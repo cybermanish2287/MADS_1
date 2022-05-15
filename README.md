@@ -17,11 +17,12 @@ SQL2:
 
 https://www.udemy.com/course/complete-python-postgresql-database-course/
 https://pysql.tecladocode.com/section02/
-Using Python to Access Web Data
 
-Using Databases with Python
+Using Python to Access Web Data - Coursera
 
-Capstone: Retrieving, Processing, and Visualizing Data with Python
+Using Databases with Python - Coursera
+
+Capstone: Retrieving, Processing, and Visualizing Data with Python - Coursera
 
 **Course 516**:
 
