@@ -27,3 +27,4 @@ Capstone: Retrieving, Processing, and Visualizing Data with Python - Coursera
 **Course 516**:
 
 DE1.1
+DE1.2
