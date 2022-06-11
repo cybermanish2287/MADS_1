@@ -1,9 +1,9 @@
 
-**Course - 505**:
+Course - 505:
 
 Wes McKinney - Python for Data Analysis. Data Wrangling with Pandas, NumPy, and IPython-O’Reilly (2017)
 
-**Course 511**:
+Course - 511:
 
 SQL1 - 
 
@@ -24,7 +24,7 @@ Using Databases with Python - Coursera
 
 Capstone - Retrieving, Processing, and Visualizing Data with Python - Coursera
 
-**Course 516**:
+Course - 516:
 
 DE1.1
 DE1.2
